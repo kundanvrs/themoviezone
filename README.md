@@ -1,4 +1,4 @@
-# themoviezone
+## themoviezone
 
-## Tech Used
-### FastAPI Python3
+### Tech Used
+FastAPI Python3
